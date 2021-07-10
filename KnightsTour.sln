@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightsTour", "KnightsTour\KnightsTour.csproj", "{BADBC7B2-93A2-429E-8144-DDA98A1845AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BADBC7B2-93A2-429E-8144-DDA98A1845AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADBC7B2-93A2-429E-8144-DDA98A1845AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADBC7B2-93A2-429E-8144-DDA98A1845AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADBC7B2-93A2-429E-8144-DDA98A1845AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

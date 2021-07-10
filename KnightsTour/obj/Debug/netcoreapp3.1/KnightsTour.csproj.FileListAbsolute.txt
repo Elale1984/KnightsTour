@@ -1,0 +1,13 @@
+C:\Users\edwar\OneDrive\Desktop\CST-250\Activity\act 3\KnightsTour\KnightsTour\bin\Debug\netcoreapp3.1\KnightsTour.exe
+C:\Users\edwar\OneDrive\Desktop\CST-250\Activity\act 3\KnightsTour\KnightsTour\bin\Debug\netcoreapp3.1\KnightsTour.deps.json
+C:\Users\edwar\OneDrive\Desktop\CST-250\Activity\act 3\KnightsTour\KnightsTour\bin\Debug\netcoreapp3.1\KnightsTour.runtimeconfig.json
+C:\Users\edwar\OneDrive\Desktop\CST-250\Activity\act 3\KnightsTour\KnightsTour\bin\Debug\netcoreapp3.1\KnightsTour.runtimeconfig.dev.json
+C:\Users\edwar\OneDrive\Desktop\CST-250\Activity\act 3\KnightsTour\KnightsTour\bin\Debug\netcoreapp3.1\KnightsTour.dll
+C:\Users\edwar\OneDrive\Desktop\CST-250\Activity\act 3\KnightsTour\KnightsTour\bin\Debug\netcoreapp3.1\KnightsTour.pdb
+C:\Users\edwar\OneDrive\Desktop\CST-250\Activity\act 3\KnightsTour\KnightsTour\obj\Debug\netcoreapp3.1\KnightsTour.csproj.AssemblyReference.cache
+C:\Users\edwar\OneDrive\Desktop\CST-250\Activity\act 3\KnightsTour\KnightsTour\obj\Debug\netcoreapp3.1\KnightsTour.AssemblyInfoInputs.cache
+C:\Users\edwar\OneDrive\Desktop\CST-250\Activity\act 3\KnightsTour\KnightsTour\obj\Debug\netcoreapp3.1\KnightsTour.AssemblyInfo.cs
+C:\Users\edwar\OneDrive\Desktop\CST-250\Activity\act 3\KnightsTour\KnightsTour\obj\Debug\netcoreapp3.1\KnightsTour.csproj.CoreCompileInputs.cache
+C:\Users\edwar\OneDrive\Desktop\CST-250\Activity\act 3\KnightsTour\KnightsTour\obj\Debug\netcoreapp3.1\KnightsTour.dll
+C:\Users\edwar\OneDrive\Desktop\CST-250\Activity\act 3\KnightsTour\KnightsTour\obj\Debug\netcoreapp3.1\KnightsTour.pdb
+C:\Users\edwar\OneDrive\Desktop\CST-250\Activity\act 3\KnightsTour\KnightsTour\obj\Debug\netcoreapp3.1\KnightsTour.genruntimeconfig.cache
